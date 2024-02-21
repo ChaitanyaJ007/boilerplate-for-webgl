@@ -1,0 +1,1 @@
+# Simple boilerplate for WebGL programs
